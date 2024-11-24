@@ -1,0 +1,64 @@
+.logo{
+    height: 150px;
+}
+
+h1{
+    display: inline;
+    width: 100%;
+}
+
+
+body{
+    background:rgb(88, 82, 82); ;
+    font-size: 20px;
+    font-family: sans-serif;
+    
+    
+}
+
+main{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+p img{
+    width: 350px;
+}
+h2{
+    display: inline;
+    width: 100%;
+    text-align: center;
+}
+p{
+    width: 350px;
+    text-align: justify;
+}
+nav{
+   margin: 10px 0px;
+   text-align: center;
+
+   background-color: rgb(190, 26, 26);
+   padding: 15px;
+}
+
+nav a,.buy {
+   text-decoration: none;
+   padding-right: 60px;
+   color:rgb(65, 0, 0);
+   font-size: 20px;
+   font-weight: bold;
+   background-color: rgb(236, 125, 125);
+   margin: 5px;
+   padding: 3px;
+   border-radius: 10px;
+
+   
+}
+
+p{
+    color: rgb(34, 24, 24);
+}
+
+body{
+    font-family: sans-serif;
+}
